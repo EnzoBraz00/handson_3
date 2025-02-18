@@ -31,7 +31,7 @@ Este projeto tem como objetivo ensinar e praticar o fluxo de trabalho do GitHub,
 ## 📖 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/EnzoBraz00/handson_3/pull/11
    ```
 2. Abra o arquivo `index.html` no seu navegador.
 
